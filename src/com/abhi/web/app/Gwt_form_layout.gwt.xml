@@ -20,7 +20,7 @@
   <!-- Other module inherits                                      -->
 
   <!-- Specify the app entry point class.                         -->
-  <entry-point class='com.abhi.web.app.client.client.Gwt_form_layout'/>
+  <entry-point class='com.abhi.web.app.client.Gwt_form_layout'/>
 
   <!-- Specify the paths for translatable code                    -->
   <source path='client'/>

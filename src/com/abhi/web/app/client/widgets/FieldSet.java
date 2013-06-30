@@ -4,7 +4,7 @@
  * {@link FieldSet} is used to group the related widgets into one panel and also sets the caption or title for it.
  * */
 
-package com.abhi.web.app.client.client.widgets;
+package com.abhi.web.app.client.widgets;
 
 import com.google.gwt.user.client.DOM;
 import com.google.gwt.user.client.Element;

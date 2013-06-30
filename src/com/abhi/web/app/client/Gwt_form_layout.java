@@ -3,9 +3,9 @@
  * 
  * This demo shows the use of our widget and forms.
  * */
-package com.abhi.web.app.client.client;
+package com.abhi.web.app.client;
 
-import com.abhi.web.app.client.client.widgets.FieldSet;
+import com.abhi.web.app.client.widgets.FieldSet;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.dom.client.Style.Unit;
 import com.google.gwt.event.dom.client.ClickEvent;
