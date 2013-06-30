@@ -15,3 +15,13 @@ gwt-unitCache/
 war/WEB-INF/deploy/
 war/WEB-INF/classes/
 
+# Individual Files #
+.classpath
+.project
+src/log4j.properties
+
+# Other Files #
+.settings/
+target/
+war/
+src/META-INF
